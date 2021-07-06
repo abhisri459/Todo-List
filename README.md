@@ -1,6 +1,6 @@
-## todoProject
+# Todo List
 
-It's just a fun project to manage myself.
-U can also use it for increasing your productivity.
+It's just a fun project to manage oneelf.
+Anyone can use it for increasing their productivity.
 
 It is based on MERN stack basics
